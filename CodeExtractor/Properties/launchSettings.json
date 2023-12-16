@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CodeExtractor": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\calor\\source\\repos\\TadataNet\\src\\TadataNet.Api\\TadataNet.Api e:\\dev\\codeoutput\\"
+    }
+  }
+}
